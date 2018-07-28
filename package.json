@@ -1,5 +1,5 @@
 {
     "dependencies": {
-        "markdown-pdf": "^8.1.1"
+        //"markdown-pdf": "^8.1.1"
     }
 }
